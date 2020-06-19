@@ -186,6 +186,5 @@ end:
 	popq %r10			#pop %r10 , and return it to it's previous value
 	popq %r9			#pop %r9 , and return it to it's previous value
 	popq %r8			#pop %r8 , and return it to it's previous value
-#	popq %rbx			#pop %rbx , and return it to it's previous value
 	ret				#returning to the main function
 
